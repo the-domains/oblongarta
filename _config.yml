@@ -1,0 +1,28 @@
+name: Oblongarta
+favicon: null
+layout_spectrum: 0.6842260458506644
+typography_spectrum: 0.6017564556095749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6615138626657426
+  lightness: 0.9929487456101924
+  saturation: 0.8032944530714303
+  rhythmicContrast: 0.4781321412883699
+purpose: []
